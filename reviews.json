@@ -1,0 +1,154 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Physics",
+      "stars": 5,
+      "review": "Dr. Johnson's passion for physics is contagious! Her lectures are engaging and she explains complex concepts clearly."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Prof. Chen is knowledgeable and approachable. His programming assignments are challenging but rewarding."
+    },
+    {
+      "professor": "Dr. Sarah Thompson",
+      "subject": "Biology",
+      "stars": 3,
+      "review": "Dr. Thompson's lectures can be dry at times, but she's very helpful during office hours."
+    },
+    {
+      "professor": "Prof. David Martinez",
+      "subject": "Mathematics",
+      "stars": 5,
+      "review": "Prof. Martinez makes calculus fun! He has a great sense of humor and explains concepts thoroughly."
+    },
+    {
+      "professor": "Dr. Rachel Kim",
+      "subject": "Psychology",
+      "stars": 4,
+      "review": "Dr. Kim's research experience adds depth to her lectures. She encourages critical thinking in class discussions."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "History",
+      "stars": 2,
+      "review": "Prof. Wilson seems disorganized and often goes off-topic during lectures. Grading can be inconsistent."
+    },
+    {
+      "professor": "Dr. Lisa Patel",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Dr. Patel's lab demonstrations are amazing! She makes organic chemistry understandable and interesting."
+    },
+    {
+      "professor": "Prof. Robert Taylor",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Prof. Taylor's analysis of classic literature is insightful. His essay prompts encourage creativity."
+    },
+    {
+      "professor": "Dr. Maria Garcia",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Dr. Garcia's lectures are informative, but the workload can be overwhelming at times."
+    },
+    {
+      "professor": "Prof. Thomas Lee",
+      "subject": "Economics",
+      "stars": 5,
+      "review": "Prof. Lee relates economic theories to real-world situations. His classes are always thought-provoking."
+    },
+    {
+      "professor": "Dr. Amanda Brown",
+      "subject": "Art History",
+      "stars": 4,
+      "review": "Dr. Brown's passion for art is evident in every lecture. Her virtual museum tours are a highlight."
+    },
+    {
+      "professor": "Prof. Christopher Wright",
+      "subject": "Political Science",
+      "stars": 2,
+      "review": "Prof. Wright's lectures can be biased. He doesn't always encourage diverse viewpoints in discussions."
+    },
+    {
+      "professor": "Dr. Olivia Nguyen",
+      "subject": "Environmental Science",
+      "stars": 5,
+      "review": "Dr. Nguyen's field trips and hands-on projects make learning about the environment exciting and relevant."
+    },
+    {
+      "professor": "Prof. Daniel Cohen",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Prof. Cohen challenges students to think deeply. His Socratic method of teaching is very effective."
+    },
+    {
+      "professor": "Dr. Jessica Rivera",
+      "subject": "Neuroscience",
+      "stars": 3,
+      "review": "Dr. Rivera's exams are quite difficult, but her lectures are clear and well-structured."
+    },
+    {
+      "professor": "Prof. Andrew Baker",
+      "subject": "Marketing",
+      "stars": 5,
+      "review": "Prof. Baker brings real-world marketing experience to the classroom. His group projects are excellent preparation for the industry."
+    },
+    {
+      "professor": "Dr. Samantha Lewis",
+      "subject": "Anthropology",
+      "stars": 4,
+      "review": "Dr. Lewis's enthusiasm for cultural studies is infectious. Her assignments encourage students to explore diverse perspectives."
+    },
+    {
+      "professor": "Prof. Kevin O'Brien",
+      "subject": "Mechanical Engineering",
+      "stars": 2,
+      "review": "Prof. O'Brien's lectures are hard to follow. He seems to assume students have more background knowledge than they do."
+    },
+    {
+      "professor": "Dr. Natalie Wong",
+      "subject": "Linguistics",
+      "stars": 5,
+      "review": "Dr. Wong makes language analysis fascinating. Her interactive exercises help reinforce complex concepts."
+    },
+    {
+      "professor": "Prof. Eric Simmons",
+      "subject": "Finance",
+      "stars": 4,
+      "review": "Prof. Simmons provides practical insights into the finance world. His case studies are particularly valuable."
+    },
+    {
+      "professor": "Dr. Laura Fernandez",
+      "subject": "Public Health",
+      "stars": 3,
+      "review": "Dr. Fernandez's lectures are informative, but the class could benefit from more interactive elements."
+    },
+    {
+      "professor": "Prof. Gregory Hoffman",
+      "subject": "Theater Arts",
+      "stars": 5,
+      "review": "Prof. Hoffman's directing workshop is outstanding. He provides constructive feedback and encourages creativity."
+    },
+    {
+      "professor": "Dr. Aisha Abdullah",
+      "subject": "International Relations",
+      "stars": 4,
+      "review": "Dr. Abdullah's global perspective enriches class discussions. Her debates on current events are thought-provoking."
+    },
+    {
+      "professor": "Prof. Ryan Murphy",
+      "subject": "Statistics",
+      "stars": 2,
+      "review": "Prof. Murphy's teaching style is too fast-paced. It's difficult to keep up with the material in class."
+    },
+    {
+      "professor": "Dr. Victoria Chang",
+      "subject": "Geology",
+      "stars": 5,
+      "review": "Dr. Chang's field trips make geology come alive. Her enthusiasm for rocks and minerals is surprisingly contagious!"
+    }
+  ]
+}
